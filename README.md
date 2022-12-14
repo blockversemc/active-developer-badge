@@ -2,6 +2,23 @@
   <img alt="GiveMeBadge" src="https://i.alexflipnote.dev/6DKsc2i.png" width="750px">
 </p>
 
+<p align="center">
+    <a style="font-size:15px;font-family:verdana"><b>Discord Server:</b></a><br>
+    <a href="https://discord.gg/Ggj23D325t">
+        <img src="https://img.shields.io/discord/1011974948673298574.svg?label=Discord%20Server:&logo=discord&color=5865F2"><br>
+    </a>
+    <a style="font-size:15px;font-family:verdana"><b>Language:</b></a><br>
+    <img src="https://img.shields.io/badge/JavaScript-100000?label=Made%20with:&style=flat&logo=javascript&color=yellow">
+    <br>
+    <a style="font-size:15px;font-family:verdana"><b>Fork/Download For:</b></a><br>
+    <a href="https://replit.com/github/SimplySnox/active-developer-badge">
+        <img src="https://img.shields.io/badge/Repl.it-100000?label=Fork%20on:&style=flat&logo=replit&color=808080&logoColor=white">
+    </a>
+    <a href="https://github.com/SimplySnox/active-developer-badge/fork">
+        <img src="https://img.shields.io/badge/GitHub-100000?label=Fork%20on:&style=flat&logo=github&color=808080">
+    </a>
+</p>
+
 # Requirements 🧾
 - Discord Bot (from developer panel): (https://discord.com/developers/applications)
 - Python 3.6 or above: (https://www.python.org/downloads)
