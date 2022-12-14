@@ -11,10 +11,10 @@
     <img src="https://img.shields.io/badge/JavaScript-100000?label=Made%20with:&style=flat&logo=javascript&color=yellow">
     <br>
     <a style="font-size:15px;font-family:verdana"><b>Fork/Download For:</b></a><br>
-    <a href="https://replit.com/github/SimplySnox/active-developer-badge">
+    <a href="https://replit.com/github/blockversemc/active-developer-badge">
         <img src="https://img.shields.io/badge/Repl.it-100000?label=Fork%20on:&style=flat&logo=replit&color=808080&logoColor=white">
     </a>
-    <a href="https://github.com/SimplySnox/active-developer-badge/fork">
+    <a href="https://github.com/blockversemc/active-developer-badge/fork">
         <img src="https://img.shields.io/badge/GitHub-100000?label=Fork%20on:&style=flat&logo=github&color=808080">
     </a>
 </p>
